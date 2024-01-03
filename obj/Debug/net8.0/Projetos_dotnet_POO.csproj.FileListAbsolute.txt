@@ -1,0 +1,14 @@
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\bin\Debug\net8.0\Projetos_dotnet_POO.exe
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\bin\Debug\net8.0\Projetos_dotnet_POO.deps.json
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\bin\Debug\net8.0\Projetos_dotnet_POO.runtimeconfig.json
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\bin\Debug\net8.0\Projetos_dotnet_POO.dll
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\bin\Debug\net8.0\Projetos_dotnet_POO.pdb
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\Projetos_dotnet_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\Projetos_dotnet_POO.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\Projetos_dotnet_POO.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\Projetos_dotnet_POO.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\Projetos_dotnet_POO.dll
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\refint\Projetos_dotnet_POO.dll
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\Projetos_dotnet_POO.pdb
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\Projetos_dotnet_POO.genruntimeconfig.cache
+C:\Users\paulo\Desktop\Projetos_dotnet_POO\obj\Debug\net8.0\ref\Projetos_dotnet_POO.dll
