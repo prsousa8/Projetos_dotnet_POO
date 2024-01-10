@@ -11,6 +11,12 @@ namespace Projetos_dotnet_POO.Models
        public int Somar(int num1, int num2){
             return num1 + num2;
        }
+       /// <summary>
+       /// Subtrair dois inteiros
+       /// </summary>
+       /// <param name="num1">Primeiro número</param>
+       /// <param name="num2">Segundo número</param>
+       /// <returns></returns>
        public int Subtrair(int num1, int num2){
             return num1 - num2;
        }
